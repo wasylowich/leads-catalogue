@@ -1,0 +1,1 @@
+C:\wamp\www\mybanker1\app/views/leads/show.blade.php
