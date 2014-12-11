@@ -2,18 +2,6 @@ body {
     padding-top: 70px;
 }
 
-ul li .edit {
-    display: none;
-}
-
-ul li.edit .edit {
-    display: initial;
-}
-
-ul li.edit .noedit {
-    display: none;
-}
-
 .panel .edit {
     display: none;
 }
@@ -34,17 +22,21 @@ ul li.edit .noedit {
 .panel-custom {
     border-color:#f58233
 }
+
 .panel-custom>.panel-heading {
     background-color:#faa120;
     border-color:#faa120
 }
+
 .panel-custom>.panel-heading+.panel-collapse>.panel-body {
     border-top-color:#faa120
 }
+
 .panel-custom>.panel-heading .badge {
     color:#faa120;
     background-color:#fff
 }
+
 .panel-custom>.panel-footer+.panel-collapse>.panel-body {
     border-bottom-color:#faa120
 }

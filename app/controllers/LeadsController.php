@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\ModelNotFoundException;
 
 class LeadsController extends \BaseController {
 
-    const LEADS_PER_PAGE = 3;
+    const LEADS_PER_PAGE = 6;
 
     /**
      * Display a listing of leads
